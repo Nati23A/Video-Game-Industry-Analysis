@@ -6,4 +6,4 @@ Original video game sales dataset:
 https://www.kaggle.com/datasets/gregorut/videogamesales
 
 My Tableau Public visualization: 
-https://public.tableau.com/views/VideoGamesIndustry_16638744295450/ManufacturersDashboard?:language=en-US&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/shared/SRH3J4X7G?:display_count=n&:origin=viz_share_link

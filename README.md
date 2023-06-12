@@ -1,4 +1,4 @@
-# Video-Game-Industry-Project
+# Video-Game-Industry-Analysis
 
 Exploring a video games sales dataset using Python (Pandas & Seaborn libraries) for cleanups and some plots, and Tableau for further visualization
 

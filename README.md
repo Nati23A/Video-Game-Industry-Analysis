@@ -5,8 +5,7 @@ Explore a video games sales dataset using Python for data cleanups and some plot
 ## Languages
 I used Python, and these specific libraries:
 - Pandas 
-- Matplotlib 
-- Seaborn libraries.
+- Seaborn
 
 ## Links
 #### Kaggle - Video Game Sales
@@ -14,3 +13,5 @@ https://www.kaggle.com/datasets/gregorut/videogamesales
 
 #### My Tableau Public visualization
 https://public.tableau.com/shared/SRH3J4X7G?:display_count=n&:origin=viz_share_link
+
+

@@ -1,4 +1,4 @@
-![Video_Game_Industry_Analysis (1)](https://github.com/Nati23A/Video-Game-Industry-Analysis/assets/95759921/f57725df-548e-4167-b393-4fd1dac43b70)
+![tr_vgames](https://github.com/Nati23A/Video-Game-Industry-Analysis/assets/95759921/8612d2cc-8699-4485-882b-f5597a4edf15)
 ## Project's Goal
 Explore the video games sales dataset using Python for data cleanups and some plots to  get a general feel for the data, then use Tableau for further visualization.
 
